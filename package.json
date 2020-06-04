@@ -1,0 +1,13 @@
+{
+  "name": "pokemon-api",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.16.1"
+  }
+}
